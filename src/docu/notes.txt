@@ -1,0 +1,55 @@
+Cause and Effect
+
+
+Exploration Analysis Comparison Acceptance
+Sense Measure Compare Know
+
+Power
+learning how to create an effect through choice of action
+
+vertices:
+start - action - effect - end 
+
+start1 - action1 - effect1 - end1 
+empty plot - plant tomato - planted tomato - tomato plot
+start2 - action2 - effect2 - end2 
+empty plot - plant lemon - planted lemon - lemon tree
+planted - wait 8 hours - 8 hours elapsed - ripe
+ripe - harvest - harvested - more crops in storage
+
+lines / functions:
+start - action
+start - effect
+start - end
+action - effect
+action - end
+effect - end
+
+Wisdom
+learning how to create a benefit through choice of effect
+
+2 powers side by side
+start1 - action1 x start2 - action2
+start1 - effect1 x start2 - effect2
+start1 - end1 x start2 - end2
+action1 - effect1 x action2 - effect2
+action1 - end1 x action2 - end2
+effect1 - end1 x effect2 - end2
+
+
+Love - learning how to create influence through choice of benefit
+Purity - learning how to create certainty through choice of influence
+Truth
+Peace
+Freedom
+
+
+
+Awareness / Experiences / Tasks / TaskSequences
+
+
+
+Effects / Benefits / Pros & Cons
+Guidelines / De........
+Timelines
+Techniques
