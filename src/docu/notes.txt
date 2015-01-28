@@ -29,12 +29,12 @@ Wisdom
 learning how to create a benefit through choice of effect
 
 2 powers side by side
-start1 - action1 x start2 - action2
-start1 - effect1 x start2 - effect2
-start1 - end1 x start2 - end2
-action1 - effect1 x action2 - effect2
-action1 - end1 x action2 - end2
-effect1 - end1 x effect2 - end2
+start1 - action1 x effect2 - end2
+start1 - effect1 x action2 - end2
+start1 - end1 x action2 - effect2
+action1 - effect1 x start2 - end2
+action1 - end1 x start2 - effect2
+effect1 - end1 x start2 - action2
 
 
 Love - learning how to create influence through choice of benefit
